@@ -1,0 +1,15 @@
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\bin\Debug\net6.0\HeroesTask.exe
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\bin\Debug\net6.0\HeroesTask.deps.json
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\bin\Debug\net6.0\HeroesTask.runtimeconfig.json
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\bin\Debug\net6.0\HeroesTask.dll
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\bin\Debug\net6.0\HeroesTask.pdb
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.csproj.AssemblyReference.cache
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.AssemblyInfoInputs.cache
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.AssemblyInfo.cs
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.csproj.CoreCompileInputs.cache
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.dll
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\refint\HeroesTask.dll
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.pdb
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\HeroesTask.genruntimeconfig.cache
+E:\Docs\Workspace\Rider Projects\HeroesTask\HeroesTask\obj\Debug\net6.0\ref\HeroesTask.dll
